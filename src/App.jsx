@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route, Link, Navigate } from "react-router-dom";
 
 import Users from "./pages/Users";
-import CreateUser from "./pages/CreateUser";
+import CreateUser from "./pages/createUser";
 
 function App() {
   return (
